@@ -1,0 +1,3 @@
+hello,
+	Trying to work
+	with hooks which are present in the .git file
